@@ -9,4 +9,4 @@ An interpreter for a subset of the Lisp language using Python3 under the princip
 - Calling user-defined procedures
 - Evaluation of special forms
 
-Note: Skeleton and utilities functions provided by courtesy of UC Berkeley.
+_Note: Skeleton and utilities functions provided by courtesy of UC Berkeley._
